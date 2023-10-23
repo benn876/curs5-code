@@ -6,7 +6,7 @@ public class ConfidentialScript {
         System.out.println(countChar("testare", 't'));
 
         //2
-        System.out.println(redact("word"));
+        System.out.println(redact("word!"));
 
         //3
         String[] names = {"George", "Mihai", "Ioana"};
